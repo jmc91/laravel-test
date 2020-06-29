@@ -554,32 +554,6 @@ id: ca-losangeles-30
 * https://twitter.com/greg_doucette/status/1268052132252602368
 
 
-### ACAB | March 30th
-
-you know the drill by now.  same shit different day
-
-tags: pepper-spray, spray, shields
-
-id: ca-losangeles-28
-
-**Links**
-
-* www.google.com
-*  www.instagram.com
-
-### ACAB | March 30th
-
-you know the drill by now.  same shit different day
-
-tags: pepper-spray, spray, shields
-
-id: ca-losangeles-29
-
-**Links**
-
-* www.google.com
-* www.instagram.com
-
 ## Oakland
 
 ### Officer runs down protesters with police cruiser | (believed to be) May 30th
