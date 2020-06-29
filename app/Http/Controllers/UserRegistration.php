@@ -17,24 +17,17 @@ class UserRegistration extends Controller {
 		$request_title = $request->input('title');
 		$request_date = $request->input('date');
 		$links = preg_split("/,/", $request_links);
-		echo 'City: ' . $request_city;
-		echo '<br>';
-		// //Retrieve the username input field
-		// $state = $request->state;
-		// echo 'State: ' . $state;
-		// echo '<br>';
+		// TODO: validation
 
-		// //Retrieve the password input field
-		// $description = $request->description;
-		// echo 'Description: ' . $description;
+		// TODO: make these configurable
 		$repo_owner = 'jmc91';
-		$repo_name = 'laravel-test';
-		$md_file_path = 'California.md';
-
+		$repo_name = 'police-brutality';
 		$username = 'jmc91';
-		// TODO: get info from Laravel about who is clicking
 		$commit_message = 'Approved from Laravel by user YYYY';
 		$branch = 'laravel-approvals';
+
+		// TODO: actually get the file based on the request
+		$md_file_path = 'reports/California.md';
 
 		$git_resp = GitHub::repo()->Contents()->Show($repo_owner, $repo_name, $md_file_path, $branch);
 		$encoded_content = $git_resp['content'];
@@ -42,7 +35,6 @@ class UserRegistration extends Controller {
 		$sha = $git_resp['sha'];
 		// var_dump($content);
 
-		// =========== Process pulled down md file
 		$updated_content = $this->addNewIncident($content, $request_city, $request_state, $request_title, $request_date, $request_description, $request_tags, $links);
 
 		$git_write_resp = GitHub::repo()->Contents()->update($username, $repo_name, $md_file_path, $updated_content, $commit_message, $sha, $branch);
@@ -69,14 +61,11 @@ class UserRegistration extends Controller {
 			}
 		}
 		$current_max_id = $this->get_max_id_incident($incidents_blob);
-		echo 'max id is' . $current_max_id;
-		// technically we are counting the number of incidents before adding the new one
-		// but since the city name is element 0 after splitting on ###, we effectively get the new count
 		$id_incident = $this->build_id_incident($state_abbrev, $clean_city, $current_max_id + 1);
-		// use blade template to build incident
 		$new_incident = view('incident-template', ['title' => $title, 'date' => $date, 'description' => $description, 'tags' => $tags, 'links' => $links, 'id' => $id_incident]);
 
 		$new_incidents_blob = $incidents_blob . $new_incident;
+		// overwrite existing entry for this city
 		$cities[$request_city_index] = $new_incidents_blob;
 		return implode($cities);
 	}
