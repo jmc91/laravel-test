@@ -7,4 +7,4 @@ Contains code that will
 
 The main logic is located in app/Http/Controllers/UserRegistration.php
 
-In order to hook up your credentials, update config/github.php
+In order to hook up your git credentials, update config/github.php
