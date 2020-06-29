@@ -14,7 +14,7 @@ id: ca-clayton-1
 * https://twitter.com/CliffBraun/status/1268038070667849728
 
 
-## Compton
+\n## Compton
 
 ### Police beat person on the ground | (believed to be) June 1st
 
@@ -33,7 +33,7 @@ id: ca-compton-1
 * https://www.reddit.com/r/PublicFreakout/comments/gvdl01/they_secluded_him_behind_a_wall_and_looked_around/
 
 
-## Costa Mesa
+\n## Costa Mesa
 
 ### Law enforcement concealing badge | June 3rd
 
@@ -48,7 +48,7 @@ id: ca-costa-mesa-1
 * https://old.reddit.com/r/orangecounty/comments/gvn42k/oc_sheriff_deputy_forgoing_his_name_badge_to_wear/
 
 
-## Hollywood
+\n## Hollywood
 
 ### Law enforcement arrest people walking, you can hear on the radio “You should not be driving past anybody, stop and take somebody into custody”. | June 1st
 
@@ -78,7 +78,7 @@ id: ca-hollywood-2
 * https://www.youtube.com/watch?v=E_lO_IZVc4k&feature=youtu.be
 
 
-## Huntington Beach
+\n## Huntington Beach
 
 ### Police fire at protestors on ground | June 1st
 
@@ -93,7 +93,7 @@ id: ca-hungtingtonbeach-1
 * https://twitter.com/Ricardo_4715/status/1267334754119999488
 
 
-## La Mesa
+\n## La Mesa
 
 ### Law enforcement shoot and throw tear gas at protesters | May 30th
 
@@ -123,7 +123,7 @@ id: ca-lamesa-1
 * https://mobile.twitter.com/chadloder/status/1267290221562871809/photo/1
 
 
-## Long Beach
+\n## Long Beach
 
 ### Reporter shot in neck by rubber bullet | May 31st
 
@@ -139,7 +139,7 @@ id: ca-longbeach-1
 * https://twitter.com/AGuzmanLopez/status/1267269781805137920
 
 
-## Los Angeles
+\n## Los Angeles
 
 ### LAPD officer beats multiple protesters who are filming them during a protest in Beverley Hills | May 30th
 
@@ -554,7 +554,18 @@ id: ca-losangeles-30
 * https://twitter.com/greg_doucette/status/1268052132252602368
 
 
-## Oakland
+\n### ACAB | March 30th
+
+same shit different day
+
+tags: pepper-spray
+
+id: calosangeles28
+
+**Links**
+
+* www.google.com
+\n## Oakland
 
 ### Officer runs down protesters with police cruiser | (believed to be) May 30th
 
@@ -597,7 +608,7 @@ id: ca-oakland-3
 * https://twitter.com/greg_doucette/status/1270490060287344642
 
 
-## Riverside
+\n## Riverside
 
 ### Law enforcement break a car window for no apparent reason | June 2nd
 
@@ -612,7 +623,7 @@ id: ca-riverside-1
 * https://old.reddit.com/r/PublicFreakout/comments/gv2lku/news_chopper_pans_out_as_riverside_county_sheriff/
 
 
-## Sacramento
+\n## Sacramento
 
 ### Police shoot protester in the head | May 31st
 
@@ -655,7 +666,7 @@ id: ca-sacramento-3
 * [From a different angle, where we see filming woman pushed down](https://twitter.com/reereeisme65/status/1267378345894789125)
 
 
-## San Diego
+\n## San Diego
 
 ### Police kettle and fire on fleeing protestors | May 31st
 
@@ -712,7 +723,7 @@ id: ca-sandiego-1
 * [From perspective of women watching the abducted being pulled into the car and driving away](https://twitter.com/greg_doucette/status/1269009907367493634)
 
 
-## San Francisco
+\n## San Francisco
 
 ### San Francisco law enforcement shove man off the sidewalk onto the ground | May 31st
 
@@ -727,7 +738,7 @@ id: ca-sanfrancisco-1
 * https://twitter.com/caseylc9/status/1267285516262596608
 
 
-## San Jose
+\n## San Jose
 
 ### Police shoot a projectile at a protestor | May 29th
 
@@ -834,7 +845,7 @@ id: ca-sanjose-7
 * https://twitter.com/greg_doucette/status/1269985578474524673
 
 
-## San Luis Obispo
+\n## San Luis Obispo
 
 ### Law enforcement fire on crowd with their arms up chanting | June 1st
 
@@ -849,7 +860,7 @@ id: ca-sanluisobispo-1
 * https://twitter.com/ma7dz/status/1267697838244298752
 
 
-## Santa Ana
+\n## Santa Ana
 
 ### Police open fire on protestors | May 31st
 
@@ -864,7 +875,7 @@ id: ca-santaana-1
 * https://twitter.com/YourAnonCentral/status/1266991237355069442
 
 
-## Santa Monica
+\n## Santa Monica
 
 ### Police fire pepper bullets into apartment | May 31st
 
@@ -903,7 +914,7 @@ id: ca-santamonica-2
 * https://www.reddit.com/r/LosAngeles/comments/gy3e3r/the_lapd_has_been_slicing_into_protesters_hands/?utm_source=share&utm_medium=web2x
 
 
-## Vallejo
+\n## Vallejo
 
 ### Police fatally shoot unarmed 22 year old | June 1st
 
@@ -921,7 +932,7 @@ id: ca-vallejo-1
 * https://www.theguardian.com/us-news/2019/jun/12/willie-mccoy-shooting-vallejo-police-55-shots
 
 
-## Walnut Creek
+\n## Walnut Creek
 
 ### Armored law enforcement vehicle threatens protestors | June 2nd
 
